@@ -1,4 +1,4 @@
 jieba==0.39
-Flask==1.1.1
+Flask==2.3.2
 pandas==0.23.1
 scikit_learn==0.20.2
